@@ -1,0 +1,67 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+}
+
+main {
+    padding: 15px;
+    width: 500px;
+    margin: 30px auto;
+}
+
+header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: brown;
+    font-style: italic;
+    text-shadow: 5px 2px 7px black;
+}
+
+header p {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 24px;
+    color: green;
+}
+
+li {
+    list-style: none;
+    color: aqua;
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 32px;
+    box-shadow: 25px 20px 10px black;
+}
+
+.goal {
+    background-color: rgb(59, 56, 56);
+}
+
+main p {
+    margin: 12px;
+    color: yellow;
+    }
+
+ol {
+    list-style: none;
+
+}
+
+#home {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+   }
+  
+  .topmenu {
+    color: aqua;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration:none;
+  }
+
+  .topmenu:hover {
+    background-color: rgb(100, 100, 20);
+  }

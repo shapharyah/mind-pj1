@@ -1,0 +1,71 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(61, 47, 52);
+}
+
+span {
+    background-color: black;
+    color: red;
+    border-radius: 10px;
+    border:  2px solid yellow;
+    font-size: 34px;
+    padding: 7px;
+    margin: 5px;
+}
+
+h1 {
+    font-style: italic;
+    color: yellow;
+    padding-top: 20px;
+    margin-bottom: -20px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: brown;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    top: 17%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+}
+
+#Challenge {
+    color: rgb(147, 226, 43);
+    font-weight: bold;
+    font-size: 52px;
+}
+
+main {
+    text-align: center;
+    background-color: rgb(68, 65, 65);
+    border-radius: 12px;
+    border: 2px solid black;
+    padding: 52px;
+    width: 800px;
+    margin: 190px auto;
+}
+
+#test {
+    margin: 2px 300px 20px 300px;
+    border: 2px solid aquamarine;
+}
+
